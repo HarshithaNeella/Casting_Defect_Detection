@@ -6,7 +6,17 @@ This project focuses on automated visual inspection of industrial casting compon
 It demonstrates the transition from feature-based ML models (HOG + SVM) to data-driven Deep Learning models (CNN).
 
 ---
+## 📂 Dataset
 
+The dataset used for this project is publicly available:
+
+🔗 Dataset Link: https://drive.google.com/drive/folders/16oZ0GaeloYBt0YG5K7Q7tKDpY55kcBfZ?usp=sharing
+
+- Industrial casting defect dataset  
+- Binary classification: Defective vs OK  
+- Images are preprocessed (resized, normalized) before training
+
+  
 ## ⚙️ Approaches
 
 ### 🔹 Machine Learning (HOG + SVM)
