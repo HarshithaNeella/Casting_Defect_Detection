@@ -31,10 +31,15 @@ It demonstrates the transition from feature-based ML models (HOG + SVM) to data-
 ## 📁 Project Structure
 
 Casting_Defect_Detection/
+
 │
+
 ├── ML_model/ # HOG + SVM implementation
+
 ├── DL_model/ # CNN implementation
+
 ├── README.md
+
 ├── requirements.txt
 
 
